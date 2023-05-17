@@ -1,0 +1,79 @@
+{
+  "project_info": {
+    "project_number": "610299610557",
+    "firebase_url": "https://seeds-finance-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "seeds-finance",
+    "storage_bucket": "seeds-finance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610299610557:android:63aa3d7262b8d15a793ed4",
+        "android_client_info": {
+          "package_name": "com.seeds.investment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610299610557-21dqv0j61ocbfifcd2np158p6s5g6bt8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.seeds.investment",
+            "certificate_hash": "4842b6dfe641f8560159243a3e24ea683d14f97f"
+          }
+        },
+        {
+          "client_id": "610299610557-iekhdadm0pqerug2njnguvhaol2vage7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.seeds.investment",
+            "certificate_hash": "4e403ff7a6e51b79a819008bee7ff1aff2556d6d"
+          }
+        },
+        {
+          "client_id": "610299610557-io2bo3k2rh4krg0u43hlntih4u1if79q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.seeds.investment",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "610299610557-loffrrsl87a9mc67f4ibnhe2bnv60prc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.seeds.investment",
+            "certificate_hash": "f497eb5bd0343e06e1b9c08bdf24db308cbf3098"
+          }
+        },
+        {
+          "client_id": "610299610557-43r8rdi4ck67kipitp0ff729du4eo70l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO0cZDRHAwvwxDFrjAvukzwWhRLDtpLeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610299610557-43r8rdi4ck67kipitp0ff729du4eo70l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "610299610557-02ffiq31jm1c3cth6bmq9dqr808h7m2s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.seeds.investment"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

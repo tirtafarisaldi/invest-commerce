@@ -1,0 +1,26 @@
+{
+    "plugins": [
+      [
+        "module-resolver",
+        {
+          "cwd": "babelrc",
+          "root": ["./"],
+          "extensions": [".js", ".ts"],
+          "alias": {
+            "@Actions": "./src/Redux/Actions",
+            "@Assets": "./src/Assets",
+            "@Atom": "./src/Components/Atom",
+            "@Config": "./src/Config",
+            "@Container": "./src/Container",
+            "@Hooks": "./src/Hooks",
+            "@Molecule": "./src/Components/Molecule",
+            "@Navigators": "./src/Navigators",
+            "@Organism": "./src/Components/Organism",
+            "@Services": "./src/Services",
+            "@Theme": "./src/Theme",
+            "@Utils": "./src/Utils"
+          }
+        }
+      ]
+    ]
+}
